@@ -15,8 +15,8 @@ I’m Rohit Singh Bhandari
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&https://www.linkedin.com/in//)](https://www.linkedin.com/in/rohit-singh-bhandari-473070237)
-[![Twitter](https://img.shields.io/twitter/follow/BhupendraNegi21?style=social)](https://twitter.com/)
-[![GitHub](https://img.shields.io/github/followers/BhupendraNegi?label=follow&style=social)](https://github.com/Rohuu)
+[![Twitter](https://img.shields.io/twitter/follow/rohuu99022?style=social)](https://twitter.com/rohuu99022)
+[![GitHub](https://img.shields.io/github/followers/Rohuu?label=follow&style=social)](https://github.com/Rohuu)
 
 
 
