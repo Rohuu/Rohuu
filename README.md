@@ -1,0 +1,27 @@
+
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I’m Rohit Singh Bhandari
+
+🔭 I’m programming enthusiast, open to opportunities.
+
+
+👨🏾‍💻 Languages I love to code in
+  * JAVA
+  * C
+  * C++
+  
+📫 How to reach me  on:
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&https://www.linkedin.com/in//)](https://www.linkedin.com/in/rohit-singh-bhandari-473070237)
+[![Twitter](https://img.shields.io/twitter/follow/BhupendraNegi21?style=social)](https://twitter.com/)
+[![GitHub](https://img.shields.io/github/followers/BhupendraNegi?label=follow&style=social)](https://github.com/Rohuu)
+
+
+
+
+<!---
+Rohuu/Rohuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
