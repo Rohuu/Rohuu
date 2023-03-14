@@ -8,7 +8,6 @@ I’m Rohit Singh Bhandari
 
 👨🏾‍💻 Languages I love to code in
   * JAVA
-  * C++
   
 📫 How to reach me  on:
 
