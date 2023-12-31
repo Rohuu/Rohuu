@@ -6,8 +6,12 @@ I’m Rohit Singh Bhandari
 🔭 I’m programming enthusiast, open to opportunities.
 
 
-👨🏾‍💻 Languages I love to code in
+👨🏾‍💻 I love to work on
   * JAVA
+  * Spring-Boot
+  * Spring
+  * Hibernate
+  * PostgreSQL
   
 📫 How to reach me  on:
 
